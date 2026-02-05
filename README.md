@@ -1,6 +1,6 @@
 # Simple Youtube Customizer 🎨
 
-[![Available on Chrome Web Store](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/i74j8p984e1b822d56d1.png)](https://chromewebstore.google.com/detail/simple-youtube-customizer/poklpdfgcodhbhpllggelaimciifmemb)
+[![Available on Chrome Web Store]](https://chromewebstore.google.com/detail/simple-youtube-customizer/poklpdfgcodhbhpllggelaimciifmemb)
 
 Take full control over your YouTube viewing experience with a sleek, minimalist, and powerful design engine. **Simple Youtube Customizer** allows you to strip away the default look and create a workspace that perfectly matches your mood, aesthetic, or OS theme.
 
