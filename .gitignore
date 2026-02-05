@@ -1,0 +1,11 @@
+# System files
+Thumbs.db
+.DS_Store
+
+# Archives
+*.zip
+*.crx
+*.pem
+
+# Dependencies (if any in future)
+node_modules/
